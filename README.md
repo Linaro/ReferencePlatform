@@ -1,6 +1,6 @@
 # Reference Platform
 
-[Home]() | [Platforms](Platforms/README.md) | [Downloads](Downloads/README.md) | [Documentation](Documentation/README.md) | [Community](Community/README.md)
+[Home](README.md) | [Platforms](Platforms/README.md) | [Community](Community/README.md)
 
 <a href="http://connect.linaro.org/resource/sfo15/sfo15-104-the-96boards-software-reference-platform/" target="_blank"><img align="right" src="http://i.imgur.com/UzmaWUD.png" data-canonical-src="http://i.imgur.com/UzmaWUD.png" width="300" height="200" /></a>
 
